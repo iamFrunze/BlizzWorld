@@ -82,9 +82,5 @@ dependencies {
     api remote.okhttp
     api remote.logginginterceptor
 
-    //Rx
-    api rx.rxAndroid
-    api rx.rxJava2
-    api rx.rxAdapter
-
+    api coroutines
 }

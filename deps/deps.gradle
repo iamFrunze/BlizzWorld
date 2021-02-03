@@ -83,4 +83,6 @@ ext {
             rxJava2  : "io.reactivex.rxjava2:rxjava:2.2.19",
             rxAdapter: 'com.squareup.retrofit2:adapter-rxjava2:2.9.0'
     ]
+    coroutines = 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.4.2'
+
 }
